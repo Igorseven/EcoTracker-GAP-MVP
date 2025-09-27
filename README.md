@@ -34,7 +34,7 @@ Este projeto foi desenvolvido seguindo as melhores práticas de gestão ágil:
 
 ## 🚀 Funcionalidades do MVP
 
-### ✅ Sprint 1 e 2 (Implementadas)
+### ✅ Sprint 1 (Implementadas)
 - **Cadastro e Autenticação** - Sistema seguro de usuários
 - **Dashboard Visual** - Visualização clara do consumo atual
 - **Input Manual de Dados** - Inserção de consumo mensal
@@ -73,31 +73,6 @@ Este projeto foi desenvolvido seguindo as melhores práticas de gestão ágil:
 - **GitHub Actions** - CI/CD automatizado
 - **Docker** - Containerização
 - **Firebase** - Hosting e analytics
-
-## 📁 Estrutura do Repositório
-
-```
-ecotracker-mvp/
-├── README.md
-├── canvas-url.txt                 # URL do MVP Canvas (Google Slides)
-├── product-backlog.pdf           # Backlog completo do produto
-├── sprint-backlog.pdf            # Backlog da primeira sprint
-├── showcase-video.mp4            # Vídeo de apresentação
-├── wireframes/                   # Protótipos de interface
-│   ├── cadastro.png
-│   ├── login.png
-│   ├── dashboard.png
-│   └── input-consumo.png
-├── docs/                         # Documentação técnica
-│   ├── definition-of-ready.md
-│   ├── definition-of-done.md
-│   └── user-stories.md
-└── src/                          # Código-fonte (futuro)
-    ├── components/
-    ├── screens/
-    ├── services/
-    └── utils/
-```
 
 ## 🎯 Definition of Ready (DoR)
 
@@ -156,13 +131,6 @@ Escalar e inovar com IA, IoT e marketplace
 - **Data de Launch**: Dezembro 2025
 - **Break-even**: Mês 12
 
-## 🔗 Links Importantes
-
-- **MVP Canvas**: [Google Slides - Lean Inception](canvas-url.txt)
-- **Product Backlog**: [Jira Workspace](product-backlog.pdf)
-- **Wireframes**: [Pasta /wireframes](wireframes/)
-- **Vídeo Showcase**: [Apresentação do MVP](showcase-video.mp4)
-
 ## 📈 Aprendizados Buscados
 
 - **Adesão ao Input Manual**: Usuários inserem dados consistentemente?
@@ -200,8 +168,6 @@ Este projeto é desenvolvido para fins acadêmicos na pós-graduação em Gestã
 ---
 
 **Desenvolvido por**: Igor Seven  
-**Instituição**: [Nome da Pós-Graduação]  
-**Data**: Setembro 2025  
 
 ![Sustentabilidade](https://img.shields.io/badge/Foco-Sustentabilidade-brightgreen)
 ![Metodologia](https://img.shields.io/badge/Metodologia-Scrum-blue)

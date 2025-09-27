@@ -1,0 +1,17 @@
+# MVP Canvas - EcoTracker Lean Inception
+# URL da apresentação Google Slides com Lean Inception completa
+
+URL: https://docs.google.com/presentation/d/1KjN6uobiP0BR278gbJ25EiGLoRiCvIQhkIQzYfm6ppM/edit?usp=sharing
+
+# Observações:
+# - Apresentação contém Lean Inception completa em 7 slides
+# - Estrutura: Capa, Visão, É/Não É/Faz/Não Faz, Personas, Features, Roadmap, MVP Canvas
+
+# - Conteúdo desenvolvido para o produto EcoTracker
+# - Acesso público configurado para visualização
+# - Criado no Google Slides para maior compatibilidade
+
+# Data de criação: 20/09/2025
+# Produto: EcoTracker - App de Gestão Sustentável
+# Desenvolvido por: Igor Seven# MVP Canvas - EcoTracker Lean Inception
+# URL da apresentação Google Slides com Lean Inception completa

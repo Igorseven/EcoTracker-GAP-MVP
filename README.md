@@ -34,7 +34,7 @@ Este projeto foi desenvolvido seguindo as melhores práticas de gestão ágil:
 
 ## 🚀 Funcionalidades do MVP
 
-### ✅ Sprint 1 (Implementadas)
+### ✅ Sprint 1 e 2 (Implementadas)
 - **Cadastro e Autenticação** - Sistema seguro de usuários
 - **Dashboard Visual** - Visualização clara do consumo atual
 - **Input Manual de Dados** - Inserção de consumo mensal

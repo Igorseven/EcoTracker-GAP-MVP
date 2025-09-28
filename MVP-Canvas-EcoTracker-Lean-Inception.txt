@@ -1,7 +1,9 @@
 # MVP Canvas - EcoTracker Lean Inception
 # URL da apresentação Google Slides com Lean Inception completa
-
 URL: https://docs.google.com/presentation/d/1KjN6uobiP0BR278gbJ25EiGLoRiCvIQhkIQzYfm6ppM/edit?usp=sharing
+
+# URL da apresentação MIro com Lean Inception completa
+URL: https://miro.com/app/board/uXjVJBg7TPU=/?share_link_id=319982409311
 
 # Observações:
 # - Apresentação contém Lean Inception completa em 7 slides
